@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>JavaWebAppTestnew</h1>
+        <h1>Successfully deployed in Azure</h1>
     </body>
 </html>
