@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Successfully deployed in TomCat using Jenkins Pipeline</h1>
+        <h1>hai</h1>
     </body>
 </html>
